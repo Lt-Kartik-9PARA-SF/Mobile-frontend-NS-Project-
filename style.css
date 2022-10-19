@@ -45,8 +45,11 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-align-items: center;
+    align-items: center;
 
+}
+.icon-holder:hover{
+    color: purple;
 }
 .active {
     color: purple;
