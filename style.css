@@ -14,7 +14,7 @@ body{
 }
 .front{
     width: 25vw;
-    height: 83vh;
+   max-height: 83vh;
     display: flex;
     flex-direction: column;
     border-radius: 11px;
@@ -38,7 +38,7 @@ a {
     align-items: center;
 }
 .icon-holder{
-    height: 10%;
+    max-height: 10%;
     color: gray;
     cursor: pointer;
     
